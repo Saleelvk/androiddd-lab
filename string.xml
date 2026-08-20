@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Valid Register Form</string>
+
+    <string name="registration_title">Registration Form</string>
+
+    <string name="hint_name">Enter your name</string>
+
+    <string name="hint_password">Enter your password</string>
+
+    <string name="gender_male">Male</string>
+
+    <string name="gender_female">Female</string>
+
+    <string name="gender_other">Other</string>
+
+    <string name="terms_and_conditions">
+        I agree to the terms and conditions
+    </string>
+
+    <string name="btn_submit">Register</string>
+
+</resources>
